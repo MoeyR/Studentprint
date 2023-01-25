@@ -4,7 +4,8 @@ package printstudentdetails;
  * define an entity Student - attributes name, s_id, age et, functions/methods etc
  * encapsulation principle - object oriented design principles - private variables then generate getters and setters
  * (right click on the variable -> refactor -> encapsulation)
- * local rep in laptop: 1. initialize version 2. .gitconfig file, 3. .gitignore
+ * local rep in laptop: to github remote repository
+ * Local rep configuration: 1. initialize version 2. .gitconfig file, 3. .gitignore
  * netbeans code - working tree code - to local repository - commit
  * 
  * @author Moyu Ran
