@@ -5,13 +5,14 @@ package printstudentdetails;
  * encapsulation principle - object oriented design principles - private variables then generate getters and setters
  * (right click on the variable -> refactor -> encapsulation)
  * local rep in laptop: 1. initialize version 2. .gitconfig file, 3. .gitignore
- * netbeans code - working tree code - to local reposatry - commit
+ * netbeans code - working tree code - to local repository - commit
  * 
  * @author Moyu Ran
  */
 public class Student {
     private String name;
     private int age;
+    private int sid;
 
     /**
      * @return the name
